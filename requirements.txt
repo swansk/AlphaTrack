@@ -1,0 +1,2 @@
+opencv-oontrib-python
+numpy
